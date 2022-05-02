@@ -1,7 +1,8 @@
 import java.util.ArrayList;
 import static org.junit.Assert.*;
 import org.junit.*;
-public class SkillDemoTest {
+
+public class skillDemoTest {
 
     @Test
     public void averageScoreOdd() {
